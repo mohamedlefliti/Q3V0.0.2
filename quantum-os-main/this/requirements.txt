@@ -1,0 +1,11 @@
+cirq>=1.2.0
+qiskit>=0.44.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+graphviz>=0.20.1
+torch>=2.0.0
+pytest>=7.4.0
+ipywidgets>=8.0.0
+qutip>=4.7.0
+scipy>=1.9.0

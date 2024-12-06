@@ -1,0 +1,443 @@
+2024-12-04 17:34:59,108 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:35:25,722 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:35:35,382 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:35:54,694 - quantum_gui - INFO - Using cached results
+2024-12-04 17:35:54,694 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 442, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:36:00,572 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:39:43,389 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:39:56,070 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:40:05,795 - quantum_gui - ERROR - Error applying noise model: NoiseModel.from_noise_model_like() takes 2 positional arguments but 4 were given
+2024-12-04 17:40:16,965 - quantum_gui - ERROR - Error applying noise model: NoiseModel.from_noise_model_like() takes 2 positional arguments but 4 were given
+2024-12-04 17:40:31,044 - quantum_gui - ERROR - Error applying noise model: NoiseModel.from_noise_model_like() takes 2 positional arguments but 3 were given
+2024-12-04 17:40:47,107 - quantum_gui - ERROR - Error applying noise model: NoiseModel.from_noise_model_like() takes 2 positional arguments but 4 were given
+2024-12-04 17:41:02,065 - quantum_gui - ERROR - Error applying noise model: NoiseModel.from_noise_model_like() takes 2 positional arguments but 4 were given
+2024-12-04 17:42:40,594 - quantum_gui - ERROR - Error applying noise model: NoiseModel.from_noise_model_like() takes 2 positional arguments but 4 were given
+2024-12-04 17:43:01,648 - quantum_gui - ERROR - Error showing Bloch sphere: module 'qutip' has no attribute 'snot'
+2024-12-04 17:43:47,019 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:43:54,648 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-04 17:44:48,289 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:44:55,072 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-04 17:45:04,763 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:45:13,382 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:46:01,443 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:46:50,971 - quantum_gui - INFO - Using cached results
+2024-12-04 17:46:50,971 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:46:57,184 - quantum_gui - INFO - Using cached results
+2024-12-04 17:46:57,185 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:47:01,930 - quantum_gui - INFO - Using cached results
+2024-12-04 17:47:01,930 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:47:07,983 - quantum_gui - INFO - Using cached results
+2024-12-04 17:47:07,983 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:47:13,864 - quantum_gui - INFO - Using cached results
+2024-12-04 17:47:13,865 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:47:31,518 - quantum_gui - INFO - Using cached results
+2024-12-04 17:47:31,519 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:47:44,251 - quantum_gui - INFO - Using cached results
+2024-12-04 17:47:44,251 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:47:48,422 - quantum_gui - INFO - Using cached results
+2024-12-04 17:47:48,423 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:47:56,435 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:48:08,446 - quantum_gui - INFO - Using cached results
+2024-12-04 17:48:08,447 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:48:12,970 - quantum_gui - INFO - Using cached results
+2024-12-04 17:48:12,970 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:48:21,011 - quantum_gui - INFO - Using cached results
+2024-12-04 17:48:21,011 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:48:36,881 - quantum_gui - INFO - Using cached results
+2024-12-04 17:48:36,882 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:48:41,363 - quantum_gui - INFO - Using cached results
+2024-12-04 17:48:41,364 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:48:45,314 - quantum_gui - INFO - Using cached results
+2024-12-04 17:48:45,314 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:48:49,715 - quantum_gui - INFO - Using cached results
+2024-12-04 17:48:49,716 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:49:00,762 - quantum_gui - INFO - Using cached results
+2024-12-04 17:49:00,762 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:49:04,963 - quantum_gui - INFO - Using cached results
+2024-12-04 17:49:04,963 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:49:08,994 - quantum_gui - INFO - Using cached results
+2024-12-04 17:49:08,994 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:49:13,054 - quantum_gui - INFO - Using cached results
+2024-12-04 17:49:13,054 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:49:17,395 - quantum_gui - INFO - Using cached results
+2024-12-04 17:49:17,396 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:49:42,895 - quantum_gui - INFO - Using cached results
+2024-12-04 17:49:42,896 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:49:50,524 - quantum_gui - INFO - Using cached results
+2024-12-04 17:49:50,525 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 17:50:24,573 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:50:38,893 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 17:50:47,227 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 18:27:46,764 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 18:27:53,492 - quantum_gui - ERROR - Error in Bloch sphere: index 1 is out of bounds for axis 0 with size 1
+2024-12-04 18:28:03,661 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 18:28:07,232 - quantum_gui - ERROR - Error in Bloch sphere: index 1 is out of bounds for axis 0 with size 1
+2024-12-04 18:28:20,722 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 18:28:48,145 - quantum_gui - INFO - Using cached results
+2024-12-04 18:28:48,146 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 18:29:17,252 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 18:29:28,749 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 18:29:43,049 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 18:30:10,129 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:45:31,047 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:46:22,811 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:46:39,858 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:49:57,105 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:50:19,641 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:51:13,374 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:51:47,503 - quantum_gui - INFO - Using cached results
+2024-12-04 19:51:47,503 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 19:51:51,945 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:51:51,945 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 526, in run_circuit
+    num_qubits = max(t for _, t in self.current_circuit) + 1
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: max() arg is an empty sequence
+2024-12-04 19:52:00,659 - quantum_gui - INFO - Using cached results
+2024-12-04 19:52:00,659 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 563, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-04 19:56:32,571 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:56:45,059 - quantum_gui - INFO - Running new circuit simulation
+2024-12-04 19:59:10,677 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 09:43:16,590 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 09:43:29,008 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:43:55,713 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:44:35,281 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:45:23,337 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:49:38,136 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 09:49:45,176 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:49:59,216 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:51:18,745 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:52:40,120 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:56:21,484 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 09:56:25,356 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:58:27,622 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 09:58:57,828 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 09:59:02,475 - quantum_gui - ERROR - Error in noise model: Can't instantiate abstract class NoiseModel with abstract methods noisy_moment, noisy_moments, noisy_operation
+2024-12-05 10:01:56,393 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 10:02:08,478 - quantum_gui - ERROR - Error in noise model: gamma was greater than 1.
+2024-12-05 10:02:23,647 - quantum_gui - ERROR - Error in noise model: gamma was greater than 1.
+2024-12-05 10:02:44,004 - quantum_gui - ERROR - Error in noise model: gamma was greater than 1.
+2024-12-05 10:02:54,717 - quantum_gui - ERROR - Error in noise model: gamma was greater than 1.
+2024-12-05 10:03:24,997 - quantum_gui - ERROR - Error in Bloch sphere: index 1 is out of bounds for axis 0 with size 1
+2024-12-05 10:03:38,318 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 10:04:08,206 - quantum_gui - INFO - Using cached results
+2024-12-05 10:04:08,206 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 10:04:17,842 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 10:04:17,843 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 498, in run_circuit
+    num_qubits = max(t for _, t in self.current_circuit) + 1
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: max() arg is an empty sequence
+2024-12-05 10:04:23,013 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 10:04:23,013 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 498, in run_circuit
+    num_qubits = max(t for _, t in self.current_circuit) + 1
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: max() arg is an empty sequence
+2024-12-05 10:04:54,267 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 10:04:54,267 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 498, in run_circuit
+    num_qubits = max(t for _, t in self.current_circuit) + 1
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: max() arg is an empty sequence
+2024-12-05 14:43:07,720 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:43:28,097 - quantum_gui - INFO - Using cached results
+2024-12-05 14:43:28,097 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:43:37,420 - quantum_gui - INFO - Using cached results
+2024-12-05 14:43:37,420 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:43:51,663 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:44:16,093 - quantum_gui - INFO - Using cached results
+2024-12-05 14:44:16,093 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:45:44,072 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:46:33,439 - quantum_gui - INFO - Using cached results
+2024-12-05 14:46:33,439 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:46:39,497 - quantum_gui - INFO - Using cached results
+2024-12-05 14:46:39,497 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:46:50,603 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:47:03,281 - quantum_gui - INFO - Using cached results
+2024-12-05 14:47:03,281 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:47:08,531 - quantum_gui - INFO - Using cached results
+2024-12-05 14:47:08,531 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:47:20,753 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:47:30,388 - quantum_gui - INFO - Using cached results
+2024-12-05 14:47:30,388 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:47:36,787 - quantum_gui - INFO - Using cached results
+2024-12-05 14:47:36,787 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:48:19,293 - quantum_gui - ERROR - Error in noise model: gamma was greater than 1.
+2024-12-05 14:48:55,013 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:49:30,213 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:49:38,270 - quantum_gui - INFO - Using cached results
+2024-12-05 14:49:38,270 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:49:48,113 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:51:48,903 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:52:55,952 - quantum_gui - INFO - Using cached results
+2024-12-05 14:52:55,952 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:53:08,954 - quantum_gui - INFO - Using cached results
+2024-12-05 14:53:08,954 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:53:53,353 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:57:04,937 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 14:58:58,697 - quantum_gui - INFO - Using cached results
+2024-12-05 14:58:58,697 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:59:03,322 - quantum_gui - INFO - Using cached results
+2024-12-05 14:59:03,322 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 14:59:14,539 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 15:01:44,939 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 15:23:12,046 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 16:21:36,928 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 16:22:13,908 - quantum_gui - INFO - Using cached results
+2024-12-05 16:22:13,908 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 16:23:46,922 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 16:24:31,937 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 16:24:50,183 - quantum_gui - INFO - Running new circuit simulation
+2024-12-05 16:25:16,578 - quantum_gui - INFO - Using cached results
+2024-12-05 16:25:16,578 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 16:25:25,673 - quantum_gui - INFO - Using cached results
+2024-12-05 16:25:25,673 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 16:25:35,132 - quantum_gui - INFO - Using cached results
+2024-12-05 16:25:35,137 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 16:25:40,006 - quantum_gui - INFO - Using cached results
+2024-12-05 16:25:40,006 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-05 16:25:45,812 - quantum_gui - INFO - Using cached results
+2024-12-05 16:25:45,812 - quantum_gui - ERROR - Error in circuit execution
+Traceback (most recent call last):
+  File "C:\Users\azer\Pictures\quantum-os-main\this\quantum_gui.py", line 535, in run_circuit
+    self.display_results(num_qubits)
+                         ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'num_qubits' where it is not associated with a value
+2024-12-06 20:58:59,223 - quantum_gui - INFO - Running new circuit simulation
+2024-12-06 20:59:34,820 - quantum_gui - INFO - Running new circuit simulation
+2024-12-06 20:59:53,265 - quantum_gui - INFO - Running new circuit simulation
